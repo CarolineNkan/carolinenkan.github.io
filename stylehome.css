@@ -1,0 +1,41 @@
+li {
+  float: left;
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+  background-color: #f5c7f7;
+  color: #27296d;
+  border: 10px;
+}
+li a {
+  text-align: center;
+  text-decoration: none;
+}
+li a:hover {
+  text-decoration: underline;
+  border-color: black;
+}
+h1 {
+  text-align: center;
+}
+.Name {
+  text-align: center;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 120px;
+  padding: 120px;
+}
+footer {
+  text-align: center;
+  padding: 60px;
+  margin: 140px;
+  font-weight: bold;
+  font-size: 12px;
+}
+body {
+  background: linear-gradient(
+    110.4deg,
+    rgb(251, 203, 159) 36%,
+    rgb(244, 137, 233) 82.4%
+  );
+}
